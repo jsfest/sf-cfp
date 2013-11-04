@@ -1,5 +1,11 @@
 # Speak at JSFest!
 
+## Talk Acceptance
+
+All talks are still being considered. Talks will be accepted one at a time for the next few months. Because the events are structured as a narrative acceptance happens in the order we fill the narrative. Many talks that have yet to be officially accepted are 99% likely to be accepted, we just haven't gotten to that point in the programme yet.
+
+**You should still submit your talk! We are definitely still accepting them :)**
+
 ### Submissions
 
 Create an issue in this repository. You can suggest a talk you'd like to give or one that you would like to see with or without a suggested speaker.
