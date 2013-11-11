@@ -1,5 +1,9 @@
 # Speak at JSFest!
 
+## Events
+
+There are several events accepting speaking proposals: BackStrap, DHTMLConf, Evolution of Experience and Scaling up and Down. Feel free to submit talks that fit any of these events.
+
 ## Talk Acceptance
 
 All talks are still being considered. Talks will be accepted one at a time for the next few months. Because the events are structured as a narrative acceptance happens in the order we fill the narrative. Many talks that have yet to be officially accepted are 99% likely to be accepted, we just haven't gotten to that point in the programme yet.
