@@ -2,7 +2,7 @@
 
 ## Events
 
-There are several events accepting speaking proposals: BackStrap, DHTMLConf, Evolution of Experience and Scaling up and Down. Feel free to submit talks that fit any of these events.
+There are several events accepting speaking proposals: RejectJS, DHTMLConf, Evolution of Experience and Scaling up and Down. Feel free to submit talks that fit any of these events.
 
 ## Talk Acceptance
 
